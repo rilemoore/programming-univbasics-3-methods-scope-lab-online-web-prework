@@ -13,10 +13,10 @@ def toadstool
 end
 
 def link
-  linkphrase = "It's Dangerous To Go Alone! Take This"
+  linkphrase = "It's Dangerous To Go Alone! Take This."
   puts linkphrase
 end
 
 def any_phrase(phrase)
-  return phrase
+  puts phrase
 end
