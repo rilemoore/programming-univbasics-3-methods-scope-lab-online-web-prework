@@ -5,17 +5,17 @@ phrase = "Do a Barrel Roll!"
 
 def mario
   phrase = "It's-a me, Mario"
-  puts phrase
+  p phrase
 end
 
 def toadstool
-  puts status
+  p status
 end
 
 def link
-  puts "It's Dangerous To Go Alone! Take This"
+  p "It's Dangerous To Go Alone! Take This"
 end
 
 def any_phrase(phrase)
-  puts phrase
+  p phrase
 end
